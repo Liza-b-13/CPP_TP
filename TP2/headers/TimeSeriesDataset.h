@@ -22,6 +22,8 @@ public:
 
     // Constructeur paramétré
     TimeSeriesDataset(bool znormalize, bool isTrain, int maxLength, int numberOfSamples);
+
+     double euclidean_distance(const std::vector<double>& series1, const std::vector<double>& series2);
 };
 
 #endif // TIMESERIESDATASET_H
