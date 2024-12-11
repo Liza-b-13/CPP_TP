@@ -1,3 +1,0 @@
-C:/Users/user/CLionProjects/Pokemon3/cmake-build-debug/CMakeFiles/Pokemon3.dir
-C:/Users/user/CLionProjects/Pokemon3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/user/CLionProjects/Pokemon3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
